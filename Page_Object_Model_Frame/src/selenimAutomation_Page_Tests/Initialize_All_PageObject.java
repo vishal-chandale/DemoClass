@@ -14,6 +14,8 @@ public class Initialize_All_PageObject extends BaseClass{
 		// TODO Auto-generated constructor stub
 		loginPV = new Login_Page_Verifications(driver);
 		registerPV = new Register_Page_Verifications(driver);
+		//code 
+		
 	}
 
 }
